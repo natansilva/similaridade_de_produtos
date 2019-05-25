@@ -20,3 +20,14 @@ Para isso vamos fazer a média dos vetores de cada palava e aplicamos a similari
 Para poder utilizar esse projeto você precisa ter instalado:
 1. Python e Jupyter Notebook
 2. As bibliotecas no arquivo de [requirements](./requirements.txt).
+
+## REFERENCIAS
+Os seguintes posts me ajudaram a entender melhor como o Word2Vec e a similaridade dos cossenos funciona
+
+https://medium.freecodecamp.org/how-to-get-started-with-word2vec-and-then-how-to-make-it-work-d0a2fca9dad3
+
+https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
+
+https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba
+
+https://medium.com/luizalabs/similaridade-entre-t%C3%ADtulos-de-produtos-com-word2vec-5e26199862f0
