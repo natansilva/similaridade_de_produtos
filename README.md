@@ -14,3 +14,9 @@ A partir da localização das palavras em um plano n-dimensional criado pelo Wor
 
 >**E como aplicamos isso para uma descrição, que possui mais de uma palavra ?**
 Para isso vamos fazer a média dos vetores de cada palava e aplicamos a similaridade dos cossenos nesses vetores resultantes.
+
+
+## INSTALAÇÃO
+Para poder utilizar esse projeto você precisa ter instalado:
+1. Python e Jupyter Notebook
+2. As bibliotecas no arquivo de [requirements](./requirements.txt).
