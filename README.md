@@ -26,6 +26,7 @@ Para poder utilizar esse projeto você precisa ter instalado:
 2. pip
 3. Jupyter Notebook
 4. As bibliotecas no arquivo de [requirements](./requirements.txt).
+5. Faça o download da base de dados e salve na raiz desse projeto.
 
 ## REFERENCIAS
 Os seguintes posts me ajudaram a entender melhor como o Word2Vec e a similaridade dos cossenos funciona
